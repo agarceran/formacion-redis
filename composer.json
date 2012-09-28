@@ -1,0 +1,8 @@
+{
+    "name": "adria/redis-form",
+    "description": "Trying redis",
+    "require": {
+        "predis/predis": "v0.7.3"
+    },
+    "minimum-stability": "dev"
+}
